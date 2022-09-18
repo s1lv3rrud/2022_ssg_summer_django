@@ -1,0 +1,1 @@
+# 2022_ssg_summer_django
